@@ -14,4 +14,7 @@ then try completing lists compiled by others. Ideally, I solve at least one prob
 1. https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU 
 2. NeetCode 150: https://neetcode.io/practice
 
+# Updates:
 
+Nov 12, 2022: Decided to only add "Easy" problems that I feel are unique/challenging enough. Some of them just aren't worth
+including.
